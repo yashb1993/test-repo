@@ -27,6 +27,8 @@
 
 > Why fractured: a Fracturing Orb locks a *random* mod and needs ≥4 mods. Fracturing your own bow wastes many orbs. Let someone else pay for that randomness.
 
+> **Cheaper 0.5 alternative:** the magic-base start in Guide 3 (Essence of Abrasion + desecrated prefix) also works on bows, according to the 0.5 martial-weapon videos. Try it if fractured bases are too expensive.
+
 ## Phase 2: Clean the item
 
 Goal: keep only the fractured mod (plus any T1 mod that's on the target list).
@@ -68,4 +70,4 @@ Goal: keep only the fractured mod (plus any T1 mod that's on the target list).
 - Buying a sub-ilvl-82 base. You can't roll top-tier mods on it.
 
 ## Sources
-[Timesaver.gg Fractured Phys Crit Bow](https://timesaver.gg/blog/poe2-fractured-phys-crit-bow-crafting-guide) · [MMOGah Mirror Physical Bow](https://www.mmogah.com/news/path-of-exile-2/poe-2-crafting-guide-how-to-make-the-mirror-physical-bow-for-lighting-arrow-deadeye-build) · [Vortex Gaming 0.3 Mirror Bow](https://vortexgaming.io/en/postdetail/549433) · [MMOGah 0.5.5 Weapon Crafting](https://www.mmogah.com/news/path-of-exile-2/poe-2-055-weapon-crafting-guide-how-to-build-powerful-starter-weapons-at-low-cost) · [Dads of Exile Omens](https://dadsofexile.com/omens)
+[#1 pDPS Mirror Bow 0.3 (YouTube)](https://www.youtube.com/watch?v=m9JkHoKhyDA) · [Easy Bow/Spear/Quarterstaff Craft (YouTube)](https://www.youtube.com/watch?v=ZEXG6K_7Nyg) · [1000+ DPS Martial Weapons 0.5 (YouTube)](https://www.youtube.com/watch?v=Qbt8xIn1tl0) · [Timesaver.gg Fractured Phys Crit Bow](https://timesaver.gg/blog/poe2-fractured-phys-crit-bow-crafting-guide) · [MMOGah Mirror Physical Bow](https://www.mmogah.com/news/path-of-exile-2/poe-2-crafting-guide-how-to-make-the-mirror-physical-bow-for-lighting-arrow-deadeye-build) · [Vortex Gaming 0.3 Mirror Bow](https://vortexgaming.io/en/postdetail/549433) · [MMOGah 0.5.5 Weapon Crafting](https://www.mmogah.com/news/path-of-exile-2/poe-2-055-weapon-crafting-guide-how-to-build-powerful-starter-weapons-at-low-cost) · [Dads of Exile Omens](https://dadsofexile.com/omens)

@@ -39,6 +39,15 @@ This adapts the 0.3 "bulk crafting" method:
 
 **Sellable checkpoint:** 3 T1 phys prefixes + 1 good suffix is a huge DPS weapon. Even unfinished, quarterstaff/spear phys bases sell quickly. Use them to fund the next attempt.
 
+### Alternative 0.5 start (Mobalytics)
+
+Start from a **magic** weapon that already has **% increased Physical Damage**:
+1. **Greater Essence of Abrasion**: becomes rare and adds guaranteed flat phys. This uses your **one crafted mod**.
+2. **Desecrate a prefix** with **Omen of Sinistral Necromancy**: this uses your **one desecrated mod**.
+3. **Two Greater/Perfect Exalts** (with Dextral Exaltation) for suffixes.
+
+That locks in two of the three prefixes, which makes it the most controlled route in 0.5. The 0.5 YouTube methods ([1000+ DPS martial weapons](https://www.youtube.com/watch?v=Qbt8xIn1tl0), [deterministic quarterstaff](https://www.youtube.com/watch?v=lwWbjoOnQRM)) seem to be built around this same idea.
+
 ## Phase 3: Fracture (optional, when you have a keeper)
 
 If you have a 4+ mod item with a T1 mod you'd hate to lose:
@@ -62,4 +71,4 @@ If you have a 4+ mod item with a T1 mod you'd hate to lose:
 - Run 3–5 attempts in parallel. Finish the best one, sell the rest, and use the money for weapon #2 (or for Guide 1).
 
 ## Sources
-[POE2FUN Quarterstaff Bulk Crafting (0.3)](https://poe2fun.com/guides/poe2-quarterstaff-crafting-guide) · [Elyxir Endgame Quarterstaff](https://www.elyxir.gg/guide/path-of-exile-2/how-to-craft-an-endgame-quarterstaff-in-path-of-exile-2) · [MMOJUGG Quarterstaff Profit Guide](https://www.mmojugg.com/news/poe-2-crafting-quarterstaves-profit-guide.html) · [Game8 Omens](https://game8.co/games/Path-of-Exile-2/archives/491748) · [Mobalytics Omen Crafting](https://mobalytics.gg/poe-2/guides/omen-crafting)
+[1000+ DPS Martial Weapons 0.5 (YouTube)](https://www.youtube.com/watch?v=Qbt8xIn1tl0) · [Deterministic Quarterstaff 0.5 (YouTube)](https://www.youtube.com/watch?v=lwWbjoOnQRM) · [T1 Quarterstaff Worth 1 Mirror (YouTube)](https://www.youtube.com/watch?v=gE-lkTjnnD8) · [Insane Endgame Quarterstaff (YouTube)](https://www.youtube.com/watch?v=YfGJyBrObxI) · [Mobalytics 0.5 Gear Crafting](https://mobalytics.gg/poe-2/profile/paintmaster/guides/recoup-chronomancer-gear-crafting-guide) · [PoE Currency 0.5 Weapon Method](https://www.poecurrency.com/news/poe-2-patch-0-5-0-how-to-craft-weapons-guide-return-of-the-ancients) · [POE2FUN Quarterstaff Bulk Crafting (0.3)](https://poe2fun.com/guides/poe2-quarterstaff-crafting-guide) · [Elyxir Endgame Quarterstaff](https://www.elyxir.gg/guide/path-of-exile-2/how-to-craft-an-endgame-quarterstaff-in-path-of-exile-2) · [MMOJUGG Quarterstaff Profit Guide](https://www.mmojugg.com/news/poe-2-crafting-quarterstaves-profit-guide.html) · [Game8 Omens](https://game8.co/games/Path-of-Exile-2/archives/491748) · [Mobalytics Omen Crafting](https://mobalytics.gg/poe-2/guides/omen-crafting)

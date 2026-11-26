@@ -51,10 +51,22 @@ Older guides report **~200–300 Greater Chaos Orbs** on average to isolate T1 S
 - Divine with priority: Spell Damage% > +Levels (fixed) > Gain as Extra > Cast Speed.
 - Set a divine cap before starting, e.g. 30–60 div. Stop once you hit it.
 
+## Alternative 0.5 route: staff via fractured +Levels
+
+A 0.5.0 staff guide ([PoE Currency](https://www.poecurrency.com/news/poe-2-patch-0-5-0-how-to-craft-perfect-endgame-staff-for-50-divine-orbs), which claims about 50 div) and the [+10 Level Staff video](https://www.youtube.com/watch?v=VLc88wYNgfw) lock **+Levels to Spell Skills** instead of Spell Damage:
+
+1. Get **ilvl 81+** staves with **+5 to Level of all Spell Skills**. Divine them up to **+6**.
+2. Prepare **~5 of these bases**. **Fracturing Orb** each one until the +6 Levels mod is the one that gets fractured.
+3. Remove the other mods. Then **Chaos** (with Dextral Erasure) for **Spell Crit Chance**.
+4. Finish suffixes: Cast Speed, plus your element's damage/levels.
+5. Watch for **Mana** mods. A wand guide warns they have very high roll weight and can ruin later steps, so block or remove them early.
+
+Other 0.5 estimates put a flawless staff at **50–100 div**, much cheaper than older wand estimates. Treat both numbers as rough.
+
 ## Notes for staff
 
 - Same process, but staff prefixes give larger values and more open slots for the price. A mirror staff is often cheaper per point of DPS than wand + focus.
 - Older staff guides started from an **ilvl 80+ staff with 3 sockets**. Check how sockets/runes work in your patch (0.5.5 added Runeforging).
 
 ## Sources
-[MMOEXP Mirror-Tier Wand](https://www.mmoexp.com/News/how-to-craft-a-mirror-tier-wand-in-path-of-exile-2.html) · [MMOEXP Mirror Staff 0.4](https://www.mmoexp.com/News/poe-2-how-to-craft-mirror-staff-in-0-4.html) · [Timesaver.gg 0.5 Crafting](https://timesaver.gg/blog/poe2-0-5-crafting-guide) · [PoE2 Crafting Codex 0.5.5](https://domistae.github.io/poe2-leveling/poe2_crafting_codex.html) · [Game8 Omens](https://game8.co/games/Path-of-Exile-2/archives/491748)
+[0.5 +10 Level Staff (YouTube)](https://www.youtube.com/watch?v=VLc88wYNgfw) · [Legacy Spellslinger Mirror Wand (YouTube)](https://www.youtube.com/watch?v=Xgogex7Mts4) · [Mirror Wand 0.4 (YouTube)](https://www.youtube.com/watch?v=zeJ7bwMwY1U) · [PoE Currency 0.5 Staff for 50 div](https://www.poecurrency.com/news/poe-2-patch-0-5-0-how-to-craft-perfect-endgame-staff-for-50-divine-orbs) · [GameOnlineReview 0.5 Staves](https://www.gameonlinereview.com/News/how-to-craft-ultra-endgame-staves-in-poe2-0-5.html) · [MMOEXP Mirror-Tier Wand](https://www.mmoexp.com/News/how-to-craft-a-mirror-tier-wand-in-path-of-exile-2.html) · [MMOEXP Mirror Staff 0.4](https://www.mmoexp.com/News/poe-2-how-to-craft-mirror-staff-in-0-4.html) · [Timesaver.gg 0.5 Crafting](https://timesaver.gg/blog/poe2-0-5-crafting-guide) · [PoE2 Crafting Codex 0.5.5](https://domistae.github.io/poe2-leveling/poe2_crafting_codex.html) · [Game8 Omens](https://game8.co/games/Path-of-Exile-2/archives/491748)

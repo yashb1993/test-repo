@@ -46,6 +46,26 @@ Buy base (ilvl 82+, ideally 85+)  →  lock 1 key T1 mod (fractured / bought)
 
 **Golden rule:** before every expensive step, write down what you'll do for each possible result, including "stop and sell". Never spend an omen hoping it works out.
 
+## Video guides (YouTube)
+
+These videos match the guides. YouTube is blocked from this session, so I've only seen their titles and descriptions. **Watch them to check the exact steps.**
+
+| Video | Patch | Matches guide |
+|-------|-------|---------------|
+| [PoE2 0.5 Crafting Guide: 1000+ DPS End Game Martial Weapons](https://www.youtube.com/watch?v=Qbt8xIn1tl0) | 0.5 | 1, 3 (7-step method for pure phys/elemental, claims to work for any martial weapon incl. bows) |
+| [0.5 craft quarterstaff: easy TOP TIER WEAPON (deterministic)](https://www.youtube.com/watch?v=lwWbjoOnQRM) | 0.5 | 3 (says the same process works for bows) |
+| [How to Craft an INSANE Endgame Quarterstaff](https://www.youtube.com/watch?v=YfGJyBrObxI) | 0.5 | 3 |
+| [Crafting a T1 Quarterstaff Worth 1 Mirror](https://www.youtube.com/watch?v=gE-lkTjnnD8) | ? | 3 |
+| [Mirror crafting an elemental quarterstaff](https://www.youtube.com/watch?v=WbK30sgf91E) | pre-nerf | 3 (notes essence nerfs changed a step) |
+| [Easy Bow/Spear/Quarterstaff Craft](https://www.youtube.com/watch?v=ZEXG6K_7Nyg) | ? | 1, 3 |
+| [Mirror Crafting the #1 pDPS Bow in Abyss League](https://www.youtube.com/watch?v=m9JkHoKhyDA) | 0.3 | 1 (links a written step-by-step doc) |
+| [[0.5] How to Craft Mirror Tier Endgame +10 Level Staff](https://www.youtube.com/watch?v=VLc88wYNgfw) | 0.5 | 2 |
+| [How I Crafted a Perfect LEGACY Spellslinger Mirror Wand](https://www.youtube.com/watch?v=Xgogex7Mts4) | ? | 2 |
+| [How To Craft a Mirror Wand in POE2 (0.4)](https://www.youtube.com/watch?v=zeJ7bwMwY1U) | 0.4 | 2 |
+| [Idiot's Guide To Mirror Tier Crafting](https://www.youtube.com/watch?v=vMe5O52SkYs) | ? | all (general method) |
+
+**Disagreement between sources:** some videos call their method "deterministic". Timesaver's 0.5 guide says GGG **removed deterministic base crafting** in 0.5: you lock one crafted mod and one desecrated mod, and the rest is random. Treat a "deterministic" claim as "fewer random steps", not "guaranteed".
+
 ## Sources
 
 - [JerkyJesse/poe2-mirror-crafter (GitHub)](https://github.com/JerkyJesse/poe2-mirror-crafter)
